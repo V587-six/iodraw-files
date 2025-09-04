@@ -43,7 +43,7 @@
         <mxCell id="wYVbWZsm9fmOUg-nE1gI-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wYVbWZsm9fmOUg-nE1gI-13" target="wYVbWZsm9fmOUg-nE1gI-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wYVbWZsm9fmOUg-nE1gI-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;存储经验&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="wYVbWZsm9fmOUg-nE1gI-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;存储经验并&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;更新经验池&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wYVbWZsm9fmOUg-nE1gI-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wYVbWZsm9fmOUg-nE1gI-15" target="wYVbWZsm9fmOUg-nE1gI-17" edge="1">
