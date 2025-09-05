@@ -77,8 +77,8 @@
         <mxCell id="euidmimq7-ESfX2QNGnA-26" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;执行动作&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;继续搜索&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="euidmimq7-ESfX2QNGnA-33" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="euidmimq7-ESfX2QNGnA-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;存储经验&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
