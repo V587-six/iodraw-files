@@ -10,14 +10,16 @@
         <mxCell id="euidmimq7-ESfX2QNGnA-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;初始化&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;（环境、智能体参数和网络）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="120" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="euidmimq7-ESfX2QNGnA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="euidmimq7-ESfX2QNGnA-3" target="euidmimq7-ESfX2QNGnA-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="euidmimq7-ESfX2QNGnA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="euidmimq7-ESfX2QNGnA-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="euidmimq7-ESfX2QNGnA-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;智能体获得局部观测&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（每个智能体的状态）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="161.25" y="210" width="147.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="euidmimq7-ESfX2QNGnA-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="175" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="euidmimq7-ESfX2QNGnA-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
