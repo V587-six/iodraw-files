@@ -48,7 +48,7 @@
         <mxCell id="euidmimq7-ESfX2QNGnA-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;智能体是否发现目标？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="147.5" y="480" width="175" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="euidmimq7-ESfX2QNGnA-7" value="以第一个发现目标的捕猎者为主导" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="euidmimq7-ESfX2QNGnA-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;以第一个发现目标的捕猎者为主导，通过SSIG模块生成预测集（队友和目标）并通知其他智能体&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="102.5" y="590" width="265" height="90" as="geometry" />
         </mxCell>
         <mxCell id="euidmimq7-ESfX2QNGnA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="euidmimq7-ESfX2QNGnA-14" target="euidmimq7-ESfX2QNGnA-16">
