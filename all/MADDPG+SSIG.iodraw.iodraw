@@ -35,6 +35,11 @@
         <mxCell id="euidmimq7-ESfX2QNGnA-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="euidmimq7-ESfX2QNGnA-6" target="euidmimq7-ESfX2QNGnA-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="euidmimq7-ESfX2QNGnA-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Y&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="euidmimq7-ESfX2QNGnA-39">
+          <mxGeometry x="0.0625" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="euidmimq7-ESfX2QNGnA-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;智能体是否发现目标？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="231" y="310" width="175" height="80" as="geometry" />
         </mxCell>
