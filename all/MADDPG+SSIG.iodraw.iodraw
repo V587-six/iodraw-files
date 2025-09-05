@@ -19,6 +19,11 @@
         <mxCell id="euidmimq7-ESfX2QNGnA-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;智能体获得局部观测&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（每个智能体的状态）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250.25" y="220" width="147.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="euidmimq7-ESfX2QNGnA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="euidmimq7-ESfX2QNGnA-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="euidmimq7-ESfX2QNGnA-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;智能体是否发现目标？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="239" y="310" width="175" height="80" as="geometry" />
         </mxCell>
