@@ -97,7 +97,17 @@
           <mxGeometry x="145" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="euidmimq7-ESfX2QNGnA-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="euidmimq7-ESfX2QNGnA-46" target="euidmimq7-ESfX2QNGnA-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="845" />
+              <mxPoint x="50" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="euidmimq7-ESfX2QNGnA-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;N&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="euidmimq7-ESfX2QNGnA-49">
+          <mxGeometry x="-0.1311" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="euidmimq7-ESfX2QNGnA-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;是否完成任务？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="126.25" y="810" width="157.5" height="70" as="geometry" />
