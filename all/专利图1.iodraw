@@ -1,0 +1,127 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="bAo6xfPlEtVCd4th76PB">
+    <mxGraphModel dx="2314" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6z34lP2nNmsdVAE5gQsj-1" target="6z34lP2nNmsdVAE5gQsj-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="114.5" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6z34lP2nNmsdVAE5gQsj-2" target="6z34lP2nNmsdVAE5gQsj-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;建立静态障碍物和洋流模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="95" y="200" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6z34lP2nNmsdVAE5gQsj-3" target="6z34lP2nNmsdVAE5gQsj-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;初始化多个AUV参数和灰狼种群&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="95" y="290" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6z34lP2nNmsdVAE5gQsj-4" target="6z34lP2nNmsdVAE5gQsj-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;初始化参数&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;a，A和C&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="380" width="129" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6z34lP2nNmsdVAE5gQsj-5" target="6z34lP2nNmsdVAE5gQsj-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;并行计算每个AUV的适应度值，选择每个AUV的最优的三只狼：α,β,δ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="62.25" y="470" width="204.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6z34lP2nNmsdVAE5gQsj-6" target="6z34lP2nNmsdVAE5gQsj-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-36" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6z34lP2nNmsdVAE5gQsj-21" vertex="1" connectable="0">
+          <mxGeometry x="0.24" y="4" relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6z34lP2nNmsdVAE5gQsj-6" target="6z34lP2nNmsdVAE5gQsj-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="640" />
+              <mxPoint x="530" y="25" />
+              <mxPoint x="390" y="25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-35" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6z34lP2nNmsdVAE5gQsj-34" vertex="1" connectable="0">
+          <mxGeometry x="-0.8211" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;达到终止条件&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="69.5" y="600" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6z34lP2nNmsdVAE5gQsj-7" target="6z34lP2nNmsdVAE5gQsj-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;更新每个AUV的&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;狼群等级结构&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="319" y="50" width="141.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6z34lP2nNmsdVAE5gQsj-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="389.79999999999995" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;计算每个AUV的&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;包围系数A、C&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="319" y="130" width="141.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="6z34lP2nNmsdVAE5gQsj-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="389.79999999999995" y="520" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据式6-3、式6-4、式8-1更新每个AUV的灰狼位置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="475" width="199.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6z34lP2nNmsdVAE5gQsj-10" target="6z34lP2nNmsdVAE5gQsj-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;计算猎物的&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;最终位置&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="329" y="300" width="121.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="6z34lP2nNmsdVAE5gQsj-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="389.79999999999995" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;计算每个AUV中的α,β,δ对猎物的包围位置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="225" width="179.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6z34lP2nNmsdVAE5gQsj-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="389.79999999999995" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据式5-1更新每个AUV的a值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="324" y="380" width="131.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="164" y="570" as="targetPoint" />
+            <mxPoint x="372.5" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;计算每个AUV的适应度值并更新α,β,δ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="319" y="550" width="141.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6z34lP2nNmsdVAE5gQsj-14" target="6z34lP2nNmsdVAE5gQsj-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;输出最优路径参数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="92.5" y="710" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="114.5" y="800" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
