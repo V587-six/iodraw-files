@@ -107,8 +107,15 @@
         <mxCell id="arFNak6MMUZXh2BSticR-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据式5-1更新每个AUV的a值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1164" y="450" width="131.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="arFNak6MMUZXh2BSticR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="arFNak6MMUZXh2BSticR-12" target="arFNak6MMUZXh2BSticR-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="arFNak6MMUZXh2BSticR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="328" as="sourcePoint" />
+            <mxPoint x="479.75" y="358" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="348" />
+              <mxPoint x="480" y="348" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;引入Levyy飞行策略根据&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;α狼对狼群进行位置更新&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="270" width="200" height="60" as="geometry" />
