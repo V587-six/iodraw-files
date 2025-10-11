@@ -127,7 +127,7 @@
         <mxCell id="arFNak6MMUZXh2BSticR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="arFNak6MMUZXh2BSticR-14" target="6z34lP2nNmsdVAE5gQsj-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arFNak6MMUZXh2BSticR-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;对两者更新的位置&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;进行适应度计算&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="arFNak6MMUZXh2BSticR-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;对两者更新的位置&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;进行适应度计算，选择适应度作为新位置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="379.63" y="360" width="200.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6z34lP2nNmsdVAE5gQsj-7" target="arFNak6MMUZXh2BSticR-12">
