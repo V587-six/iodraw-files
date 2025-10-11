@@ -48,12 +48,6 @@
         <mxCell id="6z34lP2nNmsdVAE5gQsj-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;根据&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;α狼对狼群进行&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;基础位置更新&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="710" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6z34lP2nNmsdVAE5gQsj-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="389.79999999999995" y="220" as="targetPoint" />
-            <mxPoint x="389.8000000000002" y="190" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6z34lP2nNmsdVAE5gQsj-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="6z34lP2nNmsdVAE5gQsj-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="389.79999999999995" y="520" as="sourcePoint" />
@@ -61,28 +55,6 @@
         </mxCell>
         <mxCell id="6z34lP2nNmsdVAE5gQsj-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据式7-1&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;更新每个AUV的灰狼位置&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="460" width="199.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6z34lP2nNmsdVAE5gQsj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6z34lP2nNmsdVAE5gQsj-10" target="6z34lP2nNmsdVAE5gQsj-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6z34lP2nNmsdVAE5gQsj-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;计算猎物的&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;最终位置&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="329" y="310" width="121.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6z34lP2nNmsdVAE5gQsj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="6z34lP2nNmsdVAE5gQsj-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="389.79999999999995" y="280" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6z34lP2nNmsdVAE5gQsj-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;引入非线性收敛银子和Levyy飞行策略&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="220" width="179.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="arFNak6MMUZXh2BSticR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6z34lP2nNmsdVAE5gQsj-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6z34lP2nNmsdVAE5gQsj-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据式5-1更新每个AUV的a值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="324" y="385" width="131.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6z34lP2nNmsdVAE5gQsj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -106,32 +78,32 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;更新每个AUV的&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;狼群等级结构&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="879" y="100" width="141.5" height="50" as="geometry" />
+          <mxGeometry x="1159" y="120" width="141.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="arFNak6MMUZXh2BSticR-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="949.8" y="260" as="targetPoint" />
+            <mxPoint x="1229.8" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;计算每个AUV的&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;包围系数A、C&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="879" y="180" width="141.5" height="50" as="geometry" />
+          <mxGeometry x="1159" y="200" width="141.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="arFNak6MMUZXh2BSticR-7" target="arFNak6MMUZXh2BSticR-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;计算猎物的&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;最终位置&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="889" y="350" width="121.5" height="50" as="geometry" />
+          <mxGeometry x="1169" y="370" width="121.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="arFNak6MMUZXh2BSticR-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="949.8" y="320" as="sourcePoint" />
+            <mxPoint x="1229.8" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;计算每个AUV中的α,β,δ对猎物的包围位置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="260" width="179.5" height="60" as="geometry" />
+          <mxGeometry x="1140" y="280" width="179.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据式5-1更新每个AUV的a值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="884" y="430" width="131.5" height="50" as="geometry" />
+          <mxGeometry x="1164" y="450" width="131.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;引入Levyy飞行策略根据&lt;/font&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;α狼对狼群进行位置更新&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="710" width="200" height="60" as="geometry" />
