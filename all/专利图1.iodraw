@@ -63,15 +63,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6z34lP2nNmsdVAE5gQsj-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;更新每个AUV的&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;狼群等级结构&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="669" y="70" width="141.5" height="50" as="geometry" />
+          <mxGeometry x="319" y="60" width="141.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6z34lP2nNmsdVAE5gQsj-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6z34lP2nNmsdVAE5gQsj-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="739.8" y="230" as="targetPoint" />
+            <mxPoint x="389.79999999999995" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6z34lP2nNmsdVAE5gQsj-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;计算每个AUV的&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;包围系数A、C&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="669" y="150" width="141.5" height="50" as="geometry" />
+          <mxGeometry x="319" y="140" width="141.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6z34lP2nNmsdVAE5gQsj-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="6z34lP2nNmsdVAE5gQsj-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -85,18 +85,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6z34lP2nNmsdVAE5gQsj-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;计算猎物的&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;最终位置&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="679" y="320" width="121.5" height="50" as="geometry" />
+          <mxGeometry x="329" y="310" width="121.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6z34lP2nNmsdVAE5gQsj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="6z34lP2nNmsdVAE5gQsj-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="739.8" y="290" as="sourcePoint" />
+            <mxPoint x="389.79999999999995" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6z34lP2nNmsdVAE5gQsj-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;计算每个AUV中的α,β,δ对猎物的包围位置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="230" width="179.5" height="60" as="geometry" />
+          <mxGeometry x="300" y="220" width="179.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6z34lP2nNmsdVAE5gQsj-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据式5-1更新每个AUV的a值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="674" y="400" width="131.5" height="50" as="geometry" />
+          <mxGeometry x="324" y="390" width="131.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6z34lP2nNmsdVAE5gQsj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -120,32 +120,32 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;更新每个AUV的&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;狼群等级结构&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="679" y="80" width="141.5" height="50" as="geometry" />
+          <mxGeometry x="949" y="70" width="141.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="arFNak6MMUZXh2BSticR-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="749.8" y="240" as="targetPoint" />
+            <mxPoint x="1019.8" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;计算每个AUV的&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;包围系数A、C&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="679" y="160" width="141.5" height="50" as="geometry" />
+          <mxGeometry x="949" y="150" width="141.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="arFNak6MMUZXh2BSticR-7" target="arFNak6MMUZXh2BSticR-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;计算猎物的&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;最终位置&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="689" y="330" width="121.5" height="50" as="geometry" />
+          <mxGeometry x="959" y="320" width="121.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="arFNak6MMUZXh2BSticR-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="749.8" y="300" as="sourcePoint" />
+            <mxPoint x="1019.8" y="290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;计算每个AUV中的α,β,δ对猎物的包围位置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="240" width="179.5" height="60" as="geometry" />
+          <mxGeometry x="930" y="230" width="179.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据式5-1更新每个AUV的a值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="684" y="410" width="131.5" height="50" as="geometry" />
+          <mxGeometry x="954" y="400" width="131.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
