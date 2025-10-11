@@ -59,12 +59,6 @@
         <mxCell id="6z34lP2nNmsdVAE5gQsj-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;引入PSO算法，根据式7-1&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;对普通狼位置进行二次更新&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="359.74" y="450" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arFNak6MMUZXh2BSticR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="165" y="565" as="targetPoint" />
-            <mxPoint x="414" y="565" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6z34lP2nNmsdVAE5gQsj-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6z34lP2nNmsdVAE5gQsj-14" target="6z34lP2nNmsdVAE5gQsj-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
