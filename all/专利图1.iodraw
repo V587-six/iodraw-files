@@ -61,7 +61,7 @@
             <mxPoint x="479.79999999999995" y="510" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6z34lP2nNmsdVAE5gQsj-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;引入PSO算法，根据式7-1对&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6z34lP2nNmsdVAE5gQsj-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;引入PSO算法，根据式7-1对每个狼群进行二次位置更新&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="450" width="199.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arFNak6MMUZXh2BSticR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
