@@ -76,6 +76,11 @@
         <mxCell id="6z34lP2nNmsdVAE5gQsj-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6z34lP2nNmsdVAE5gQsj-14" target="6z34lP2nNmsdVAE5gQsj-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="arFNak6MMUZXh2BSticR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6z34lP2nNmsdVAE5gQsj-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6z34lP2nNmsdVAE5gQsj-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;输出最优路径参数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="92.5" y="710" width="144" height="60" as="geometry" />
         </mxCell>
